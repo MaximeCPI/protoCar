@@ -2,7 +2,6 @@
 
 roue::roue()
 {
-	thertrhrhrhert
     //ctor
 }
 
